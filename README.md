@@ -1,2 +1,2 @@
 # my-github-project
-conations my projects
+contains my projects
